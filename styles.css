@@ -18,14 +18,13 @@ p {
 
 .table1 {
     background-color: #3e4344;
-    border: 2px;
-    border-color: #2c3033;
-    align: center;
+    border: 2px,#2c3033;
     padding: 10px;
 }
 
 .div1 {
-    padding: 80px;
+    padding-left: 80px;
+    paddign-right: 80px;
     align: center;
 }
 
