@@ -18,7 +18,8 @@ p {
 
 .table1 {
     background-color: #3e4344;
-    border: 2;
+    border: 2px;
     border-color: #2c3033;
     align: center;
+    padding: 10px;
 }
